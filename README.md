@@ -1,4 +1,7 @@
 # odin-recipies
-Project : Odin-Recepies using Basic HTML
+Project : Odin-Recepies using Basic HTML and CSS
 
-Built this using basic html tags, list, image and link concepts
+Project shows the recepies of differnt food.
+
+Built this using basic html tags, list, image and link concepts.
+And basic CSS border, margin, font, text.
